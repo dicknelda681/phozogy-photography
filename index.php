@@ -2,11 +2,11 @@
 <html lang="zxx">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-      <meta name="description" content="Phozogy Template">
-      <meta name="keywords" content="Phozogy, unica, creative, html">
+      <meta name="description" content="Clickory Template">
+      <meta name="keywords" content="Clickory, unica, creative, html">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <title>Phozogy | Template</title>
+      <title>Clickory</title>
       <!-- Google Font -->
       <link href="./css/check.css" rel="stylesheet">
       <link href="./css/check2.css" rel="stylesheet">
@@ -77,11 +77,11 @@
                            <div class="row">
                               <div class="col-lg-12">
                                  <div class="hs-text">
-                                    <h2>Photography Studio</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                       incididunt ut labore et<br> dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                       gravida accumsan lacus vel facilisis.
-                                    </p>
+                                  <h2>Creative Photography Studio</h2>
+<p>
+We capture real moments with a creative touch — turning everyday scenes into timeless memories that you’ll cherish forever.
+</p>
+
                                     <a href="#" class="primary-btn">Contact us</a>
                                  </div>
                               </div>
@@ -95,11 +95,11 @@
                            <div class="row">
                               <div class="col-lg-12">
                                  <div class="hs-text">
-                                    <h2>Photography Studio</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                       incididunt ut labore et<br> dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                       gravida accumsan lacus vel facilisis.
-                                    </p>
+                                   <h2>Where Moments Become Art</h2>
+<p>
+From intimate portraits to breathtaking landscapes, our studio brings your vision to life with passion and precision.
+</p>
+
                                     <a href="#" class="primary-btn">Contact us</a>
                                  </div>
                               </div>
@@ -113,11 +113,11 @@
                            <div class="row">
                               <div class="col-lg-12">
                                  <div class="hs-text">
-                                    <h2>Photography Studio</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                       incididunt ut labore et<br> dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                       gravida accumsan lacus vel facilisis.
-                                    </p>
+                                  <h2>Capturing Stories Through the Lens</h2>
+<p>
+Every photo we take is designed to tell a story — authentic, emotional, and beautifully unforgettable.
+</p>
+
                                     <a href="#" class="primary-btn">Contact us</a>
                                  </div>
                               </div>
@@ -131,11 +131,11 @@
                            <div class="row">
                               <div class="col-lg-12">
                                  <div class="hs-text">
-                                    <h2>Photography Studio</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                       incididunt ut labore et<br> dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                       gravida accumsan lacus vel facilisis.
-                                    </p>
+                                    <h2>Photography That Feels Real</h2>
+<p>
+We don’t just take pictures — we preserve feelings, smiles, and memories that last a lifetime.
+</p>
+
                                     <a href="#" class="primary-btn">Contact us</a>
                                  </div>
                               </div>
@@ -149,11 +149,11 @@
                            <div class="row">
                               <div class="col-lg-12">
                                  <div class="hs-text">
-                                    <h2>Photography Studio</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                       incididunt ut labore et<br> dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                       gravida accumsan lacus vel facilisis.
-                                    </p>
+                   <h2>Professional Photography Studio</h2>
+<p>
+Turning your special moments into lasting memories through creative and meaningful photography.
+</p>
+
                                     <a href="#" class="primary-btn">Contact us</a>
                                  </div>
                               </div>
@@ -167,11 +167,11 @@
                            <div class="row">
                               <div class="col-lg-12">
                                  <div class="hs-text">
-                                    <h2>Photography Studio</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                       incididunt ut labore et<br> dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                       gravida accumsan lacus vel facilisis.
-                                    </p>
+                                  <h2>Professional Photography Studio</h2>
+<p>
+Turning your special moments into lasting memories through creative and meaningful photography.
+</p>
+
                                     <a href="#" class="primary-btn">Contact us</a>
                                  </div>
                               </div>
