@@ -57,7 +57,7 @@ s0.parentNode.insertBefore(s1,s0);
                      </ul>
                   </nav>
                   <div style="float: right; margin-top: 20px;" >
-                     <button class="btn-primary" style="background:  #009603; border: 0; padding: 10px;" href="telto:+12 345 6789" class="">+12 345 6789</button>
+                     <button class="btn-primary" style="background:  #009603; border: 0; padding: 10px;" href="telto:+1 (540) 615-2100" class="">+1 (540) 615-2100</button>
                   </div>
                   <div id="mobile-menu-wrap">
                      <div class="slicknav_menu">
@@ -490,8 +490,7 @@ Turning your special moments into lasting memories through creative and meaningf
                             <div class="ct-text">
                                 <h5>Phone</h5>
                                 <ul>
-                                    <li>125-711-811</li>
-                                    <li>125-668-886</li>
+                                    <li>+1 (540) 615-2100</li>
                                 </ul>
                             </div>
                         </div>
