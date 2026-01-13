@@ -43,7 +43,7 @@
                         <li><a href="#contact">Contact</a></li>
                      </ul>
                   </nav>
-                  <div style="float: right;" >
+                  <div style="float: right; margin-top: 20px;" >
                      <button href="telto:+12 345 6789" class="">+12 345 6789</button>
                   </div>
                   <div id="mobile-menu-wrap">
