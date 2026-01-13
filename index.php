@@ -44,7 +44,7 @@
                      </ul>
                   </nav>
                   <div class="top-search search-switch">
-                     <a href="#" class="primary-btn">VIew all</a>
+                     <a href="telto:+12 345 6789" class="primary-btn">+12 345 6789</a>
                   </div>
                   <div id="mobile-menu-wrap">
                      <div class="slicknav_menu">
@@ -55,7 +55,7 @@
                               <li><a href="#about" role="menuitem">About</a></li>
                               <li><a href="#services" role="menuitem">Services</a></li>
                               <li><a href="#portfolio" role="menuitem">Portfolio</a></li>
-                              <li><a href="blog.html" role="menuitem">Blog</a></li>
+                              <li><a href="#blog" role="menuitem">Blog</a></li>
                               <li><a href="#contact" role="menuitem">Contact</a></li>
                            </ul>
                         </nav>
