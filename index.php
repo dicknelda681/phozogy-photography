@@ -44,7 +44,7 @@
                      </ul>
                   </nav>
                   <div style="float: right; margin-top: 20px;" >
-                     <button class="btn-primary" style="color:  #009603;" href="telto:+12 345 6789" class="">+12 345 6789</button>
+                     <button class="btn-primary" style="background:  #009603; border: 0; padding: 10px;" href="telto:+12 345 6789" class="">+12 345 6789</button>
                   </div>
                   <div id="mobile-menu-wrap">
                      <div class="slicknav_menu">
