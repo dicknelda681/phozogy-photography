@@ -6,7 +6,7 @@
       <meta name="keywords" content="Clickory, unica, creative, html">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <title>Clickory</title>
+      <title>Clickory | Professional Photography Studio | Capturing Moments That Matter</title>
       <!-- Google Font -->
       <link href="./css/check.css" rel="stylesheet">
       <link href="./css/check2.css" rel="stylesheet">
@@ -193,8 +193,7 @@ Turning your special moments into lasting memories through creative and meaningf
                   <div class="services-item">
                      <img src="./img/service-1.jpg" alt="">
                      <h3>Shooting</h3>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                        magna aliqua. Quis ipsum suspendisse ultrices gravida.
+                     <p>We offer professional photoshoots designed to capture every detail with clarity, creativity, and perfect timing.
                      </p>
                   </div>
                </div>
@@ -202,8 +201,7 @@ Turning your special moments into lasting memories through creative and meaningf
                   <div class="services-item">
                      <img src="./img/service-2.jpg" alt="">
                      <h3>Videos</h3>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                        magna aliqua. Quis ipsum suspendisse ultrices gravida.
+                     <p>We create high-quality videos that bring your moments to life — capturing every emotion, movement, and detail with perfection.
                      </p>
                   </div>
                </div>
@@ -211,8 +209,7 @@ Turning your special moments into lasting memories through creative and meaningf
                   <div class="services-item">
                      <img src="./img/service-3.jpg" alt="">
                      <h3>Editing</h3>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                        magna aliqua. Quis ipsum suspendisse ultrices gravida.
+                     <p>We refine every photo and video with precision — enhancing colors, details, and mood to deliver a flawless final result.
                      </p>
                   </div>
                </div>
@@ -227,8 +224,7 @@ Turning your special moments into lasting memories through creative and meaningf
                <div class="col-lg-6 col-md-6">
                   <div class="section-title">
                      <h2>Categories</h2>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do<br> eiusmod tempor
-                        incididunt ut labore et dolore.
+                     <p>Explore our wide range of photography styles, each crafted to capture moments in the most beautiful and meaningful way.
                      </p>
                   </div>
                </div>
@@ -464,8 +460,7 @@ Turning your special moments into lasting memories through creative and meaningf
                 <div class="col-lg-6 col-md-6">
                     <div class="contact-text">
                         <h3>Get in touch</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
+                        <p>Have a project in mind or a moment you’d love to capture? We’re here to help — reach out and let’s create something beautiful together.</p>
                         <div class="ct-item">
                             <div class="ct-icon">
                                 <i class="fa fa-map-marker"></i>
@@ -563,7 +558,7 @@ Turning your special moments into lasting memories through creative and meaningf
                <div class="col-lg-3 col-md-6 col-sm-6">
                   <div class="fs-widget">
                      <h5>Subscribe</h5>
-                     <p>Imolor amet consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                     <p>Stay updated with our latest shoots, stories, and exclusive offers — straight to your inbox.</p>
                      <div class="fw-subscribe">
                         <form action="#">
                            <input type="text" placeholder="Email">
