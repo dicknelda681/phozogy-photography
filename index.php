@@ -44,7 +44,7 @@
                      </ul>
                   </nav>
                   <div class="top-search search-switch">
-                     <i class="fa fa-search"></i>
+                     <a href="#" class="primary-btn">VIew all</a>
                   </div>
                   <div id="mobile-menu-wrap">
                      <div class="slicknav_menu">
@@ -519,8 +519,7 @@ Turning your special moments into lasting memories through creative and meaningf
                         <img src="./img/f-logo.png" alt="">
                         </a>
                      </div>
-                     <p>Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                        et dolore magna aliqua.
+                     <p>Discover professional photography services for weddings, portraits, wildlife, and events. Turning real moments into timeless memories.
                      </p>
                      <div class="fa-social">
                         <a href="#"><i class="fa fa-facebook"></i></a>
