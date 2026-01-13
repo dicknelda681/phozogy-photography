@@ -44,7 +44,7 @@
                      </ul>
                   </nav>
                   <div class="top-search search-switch">
-                     <a href="telto:+12 345 6789" class="primary-btn">+12 345 6789</a>
+                     <a href="telto:+12 345 6789" class="">+12 345 6789</a>
                   </div>
                   <div id="mobile-menu-wrap">
                      <div class="slicknav_menu">
